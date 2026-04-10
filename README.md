@@ -2,10 +2,6 @@
 
 Minimal Alpine-based Docker image for [Icecast](https://icecast.org/), built from source.
 
-## Requirements
-
-- Docker
-- Docker Compose
 
 ## Usage
 
